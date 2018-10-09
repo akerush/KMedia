@@ -1,4 +1,8 @@
 README!!😴 OR-> Read The Fucking 👨‍💻‍Source Code //☀️ 🌧 ⚡️ 🌪 🌫 ❄️...
+```sh
+git clone -b develop https://github.com/jcodeing/KMedia.git
+./init_modules.sh
+```
 
 [download_demo_apk]: https://raw.githubusercontent.com/jcodeing/KMedia/release/demo/demo_release.apk  "Click Download KMedia Demo 4.9 MB"
 
